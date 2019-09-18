@@ -22,7 +22,10 @@
                             </StackPanel>
                         </GroupBox>
                         <GroupBox Header="Global Static Lighting" Margin="0px 5px" Padding="2px">
-  
+                            <StackPanel Orientation="Vertical">
+                                <Label>Global static color:</Label>
+                                
+                            </StackPanel>
                         </GroupBox>
                     </StackPanel>
                 </ScrollViewer>
